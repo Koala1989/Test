@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62763" started-at="2013-12-13T13:55:13Z" finished-at="2013-12-13T13:56:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62763" started-at="2013-12-13T13:55:13Z" finished-at="2013-12-13T13:56:16Z">
+      <class name="Selenium.Dtcoursestest.createcmtest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="setup" is-config="true" duration-ms="20068" started-at="2013-12-13T19:24:53Z" finished-at="2013-12-13T19:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSSOfrontdoorlaunch()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testSSOfrontdoorlaunch" duration-ms="20290" started-at="2013-12-13T19:25:13Z" finished-at="2013-12-13T19:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSSOfrontdoorlaunch -->
+        <test-method status="PASS" signature="testChooseTitle()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testChooseTitle" duration-ms="14903" started-at="2013-12-13T19:25:34Z" depends-on-methods="Selenium.Dtcoursestest.createcmtest.testSSOfrontdoorlaunch" finished-at="2013-12-13T19:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChooseTitle -->
+        <test-method status="PASS" signature="testSelectIAC()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testSelectIAC" duration-ms="3144" started-at="2013-12-13T19:25:49Z" depends-on-methods="Selenium.Dtcoursestest.createcmtest.testChooseTitle" finished-at="2013-12-13T19:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectIAC -->
+        <test-method status="PASS" signature="testNameTheCourse()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testNameTheCourse" duration-ms="4295" started-at="2013-12-13T19:25:52Z" depends-on-methods="Selenium.Dtcoursestest.createcmtest.testSelectIAC" finished-at="2013-12-13T19:25:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNameTheCourse -->
+        <test-method status="PASS" signature="testSelectComponentsScreen()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testSelectComponentsScreen" duration-ms="9677" started-at="2013-12-13T19:25:56Z" depends-on-methods="Selenium.Dtcoursestest.createcmtest.testNameTheCourse" finished-at="2013-12-13T19:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectComponentsScreen -->
+        <test-method status="PASS" signature="testConfirmationWindow()[pri:0, instance:Selenium.Dtcoursestest.createcmtest@36fcd774]" name="testConfirmationWindow" duration-ms="10315" started-at="2013-12-13T19:26:06Z" depends-on-methods="Selenium.Dtcoursestest.createcmtest.testSelectComponentsScreen" finished-at="2013-12-13T19:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfirmationWindow -->
+      </class> <!-- Selenium.Dtcoursestest.createcmtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
