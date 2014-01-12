@@ -82,7 +82,7 @@ public class createcmtest extends TestBase  {
 		course.selectiac(IAC);
 		Thread.sleep(1000);
 //Assert Title name and IAC on select IAC screen
-//		some change test
+//		some  test
 		
 //		String crsname= Title.getProperty(dispname_onselectiac)+")";
 //        String crsnameapr = getObjectbyxpath("titlename").getText();
