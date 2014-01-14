@@ -17,7 +17,8 @@ public class createCM extends TestBase {
   
    public static WebDriver driver;
    public static String Titlename;
-  @SuppressWarnings("static-access")
+  
+   
 public createCM (WebDriver driver){
 	  this.driver=driver;
 	    }
