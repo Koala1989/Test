@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="29" started-at="2014-01-16T16:46:33Z" finished-at="2014-01-16T16:46:33Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29" started-at="2014-01-16T16:46:33Z" finished-at="2014-01-16T16:46:33Z">
+      <class name="Selenium.Dtcoursestest.Copy_3_of_AppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="5" started-at="2014-01-16T16:46:33Z" finished-at="2014-01-16T16:46:33Z">
+        </test-method>
+      </class>
+      <class name="Selenium.Dtcoursestest.CopyOfAppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="0" started-at="2014-01-16T16:46:33Z" finished-at="2014-01-16T16:46:33Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

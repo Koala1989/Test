@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LNDA0055" name="Selenium.Dtcoursestest.Copy_3_of_AppTest" tests="2" failures="0" timestamp="16 Jan 2014 11:16:33 GMT" time="0.029" errors="0">
+  <testcase name="testApp on instance testApp(Selenium.Dtcoursestest.Copy_3_of_AppTest)" time="0.005" classname="Selenium.Dtcoursestest.Copy_3_of_AppTest"/>
+  <testcase name="testApp on instance testApp(Selenium.Dtcoursestest.CopyOfAppTest)" time="0.0" classname="Selenium.Dtcoursestest.CopyOfAppTest"/>
+</testsuite>
