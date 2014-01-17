@@ -161,6 +161,7 @@ public void testConfirmationWindow() throws InterruptedException{
 	getObjectbyxpath("cls_btn_cm").click();
 	Thread.sleep(2000);
 //	driver.close();
+	driver.quit();
 	
 	
 	
